@@ -1,0 +1,6 @@
+G:\Soft\Software_Innova\BuildOfmAnalyzeProfile\OFMProfileAnalyze\OFMProfileAnalyze\obj\Debug\OFMProfileAnalyze.csprojResolveAssemblyReference.cache
+G:\Soft\Software_Innova\BuildOfmAnalyzeProfile\OFMProfileAnalyze\OFMProfileAnalyze\obj\Debug\OFMProfileAnalyze.csproj.OFMProfileAnalyze.exe.config
+G:\Soft\Software_Innova\BuildOfmAnalyzeProfile\OFMProfileAnalyze\OFMProfileAnalyze\obj\Debug\OFMProfileAnalyze.Form1.resources
+G:\Soft\Software_Innova\BuildOfmAnalyzeProfile\OFMProfileAnalyze\OFMProfileAnalyze\obj\Debug\OFMProfileAnalyze.Properties.Resources.resources
+G:\Soft\Software_Innova\BuildOfmAnalyzeProfile\OFMProfileAnalyze\OFMProfileAnalyze\obj\Debug\OFMProfileAnalyze.csproj.GenerateResource.Cache
+G:\Soft\Software_Innova\BuildOfmAnalyzeProfile\OFMProfileAnalyze\OFMProfileAnalyze\obj\Debug\OFMProfileAnalyze.csproj.CoreCompileInputs.cache
